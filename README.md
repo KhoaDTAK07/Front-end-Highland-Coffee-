@@ -1,2 +1,2 @@
-# Front-end-Highland-Coffee-
-Build a web layout of Highland Coffee using HTML and CSS
+# Front-end-Project
+Build some Front-end Project using HTML, CSS, JavaScript
